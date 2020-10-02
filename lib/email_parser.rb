@@ -10,6 +10,6 @@ class EmailAddressParser
   end
   
   def parse
-    
+    email_array = 
   
 end
